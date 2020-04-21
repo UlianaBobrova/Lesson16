@@ -24,15 +24,3 @@ invoice.hello();
 
 
 
-// function Second(name, option) {
-// First.apply(this, arguments);
-// hello () {
-// console.log('А я наследуемый метод' + this.name);
-// };
-// }
-
-// Second.prototype = Object.create(First.prototype);
-// Second.prototype.constructor = Second;
-
-// let result = new Second (' first');
-// result.hello();
