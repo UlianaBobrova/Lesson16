@@ -14,6 +14,9 @@ class First {
 
 class Second extends First {
 
+hello() {
+    super.hello();
+}
 }
 
 const invoice = new Second('А я наследуемый метод');
